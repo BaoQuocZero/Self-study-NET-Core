@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MyNet5.props" />
+</Project>

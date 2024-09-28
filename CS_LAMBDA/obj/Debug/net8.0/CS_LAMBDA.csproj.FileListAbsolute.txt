@@ -1,0 +1,15 @@
+C:\Code\Self-study-NET-Core\CS_LAMBDA\bin\Debug\net8.0\CS_LAMBDA.exe
+C:\Code\Self-study-NET-Core\CS_LAMBDA\bin\Debug\net8.0\CS_LAMBDA.deps.json
+C:\Code\Self-study-NET-Core\CS_LAMBDA\bin\Debug\net8.0\CS_LAMBDA.runtimeconfig.json
+C:\Code\Self-study-NET-Core\CS_LAMBDA\bin\Debug\net8.0\CS_LAMBDA.dll
+C:\Code\Self-study-NET-Core\CS_LAMBDA\bin\Debug\net8.0\CS_LAMBDA.pdb
+C:\Code\Self-study-NET-Core\CS_LAMBDA\obj\Debug\net8.0\CS_LAMBDA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Self-study-NET-Core\CS_LAMBDA\obj\Debug\net8.0\CS_LAMBDA.AssemblyInfoInputs.cache
+C:\Code\Self-study-NET-Core\CS_LAMBDA\obj\Debug\net8.0\CS_LAMBDA.AssemblyInfo.cs
+C:\Code\Self-study-NET-Core\CS_LAMBDA\obj\Debug\net8.0\CS_LAMBDA.csproj.CoreCompileInputs.cache
+C:\Code\Self-study-NET-Core\CS_LAMBDA\obj\Debug\net8.0\CS_LAMBDA.sourcelink.json
+C:\Code\Self-study-NET-Core\CS_LAMBDA\obj\Debug\net8.0\CS_LAMBDA.dll
+C:\Code\Self-study-NET-Core\CS_LAMBDA\obj\Debug\net8.0\refint\CS_LAMBDA.dll
+C:\Code\Self-study-NET-Core\CS_LAMBDA\obj\Debug\net8.0\CS_LAMBDA.pdb
+C:\Code\Self-study-NET-Core\CS_LAMBDA\obj\Debug\net8.0\CS_LAMBDA.genruntimeconfig.cache
+C:\Code\Self-study-NET-Core\CS_LAMBDA\obj\Debug\net8.0\ref\CS_LAMBDA.dll

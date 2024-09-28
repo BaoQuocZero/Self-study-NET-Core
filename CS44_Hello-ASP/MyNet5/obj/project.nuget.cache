@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "J5uZxyMFZUM=",
+  "success": true,
+  "projectFilePath": "C:\\Code\\Self-study-NET-Core\\CS44_Hello-ASP\\MyNet5\\MyNet5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admiin\\.nuget\\packages\\buildbundlerminifier\\3.2.449\\buildbundlerminifier.3.2.449.nupkg.sha512"
+  ],
+  "logs": []
+}

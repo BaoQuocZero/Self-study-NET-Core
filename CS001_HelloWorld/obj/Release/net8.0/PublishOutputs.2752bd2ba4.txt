@@ -1,0 +1,5 @@
+C:\Code\Self-study-NET-Core\CS001_HelloWorld\bin\Release\net8.0\publish\CS001_HelloWorld.exe
+C:\Code\Self-study-NET-Core\CS001_HelloWorld\bin\Release\net8.0\publish\CS001_HelloWorld.dll
+C:\Code\Self-study-NET-Core\CS001_HelloWorld\bin\Release\net8.0\publish\CS001_HelloWorld.deps.json
+C:\Code\Self-study-NET-Core\CS001_HelloWorld\bin\Release\net8.0\publish\CS001_HelloWorld.runtimeconfig.json
+C:\Code\Self-study-NET-Core\CS001_HelloWorld\bin\Release\net8.0\publish\CS001_HelloWorld.pdb

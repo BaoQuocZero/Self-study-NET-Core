@@ -1,0 +1,7 @@
+C:\Code\Self-study-NET-Core\CS44_Hello-ASP\MyNet8\bin\Release\net8.0\publish\MyNet8.exe
+C:\Code\Self-study-NET-Core\CS44_Hello-ASP\MyNet8\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Code\Self-study-NET-Core\CS44_Hello-ASP\MyNet8\bin\Release\net8.0\publish\appsettings.json
+C:\Code\Self-study-NET-Core\CS44_Hello-ASP\MyNet8\bin\Release\net8.0\publish\MyNet8.dll
+C:\Code\Self-study-NET-Core\CS44_Hello-ASP\MyNet8\bin\Release\net8.0\publish\MyNet8.deps.json
+C:\Code\Self-study-NET-Core\CS44_Hello-ASP\MyNet8\bin\Release\net8.0\publish\MyNet8.runtimeconfig.json
+C:\Code\Self-study-NET-Core\CS44_Hello-ASP\MyNet8\bin\Release\net8.0\publish\MyNet8.pdb
